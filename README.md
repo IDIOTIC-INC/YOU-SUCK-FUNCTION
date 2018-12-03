@@ -1,6 +1,6 @@
 # YOU-SUCK-FUNCTION
 ## Description: 
-A useful function for when you are in total desperation and everything SUCKS!
+A useful function for when you are in total desperation and everything SUCKS!(Which happens often in programming)😢
 
 #### The function is currently available in: C, C++
 
